@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+
+/* Custom styles can go below */
+.chat-content-box{
+    ol{
+        margin-top: 20px;
+    }
+    ol>li{
+        margin-bottom: 20px;
+        border-bottom: 1px solid var(--color-gray-300);
+        padding-bottom: 20px;
+        a{
+            color: var(--color-orange-500);
+            &:hover{
+                color: var(--color-green-900)
+            }
+        }
+    }
+}
