@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/aroundn1/webcrawl.winwinsolutions.vn"
+PassengerBaseURI "/"
+PassengerNodejs "/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
