@@ -17,4 +17,11 @@
             }
         }
     }
+    p a{
+        font-weight: bold;
+        color: var(--color-orange-500);
+        &:hover{
+            color: var(--color-green-900)
+        }
+    }
 }
