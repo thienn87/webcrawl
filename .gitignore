@@ -50,5 +50,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 .qodo/history.sqlite
 eslint.config.zip
+=======
+.qodo
+>>>>>>> 5e486e3 (First push)
