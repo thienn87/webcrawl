@@ -70,3 +70,23 @@ Error: Could not find a production build in the '.next' directory. Try building 
     at async NextCustomServer.prepare (/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/next.js:276:28)
 
 Node.js v20.18.3
+/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.18.3
+/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148
+            throw Object.defineProperty(new Error(`Could not find a production build in the '${opts.config.distDir}' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id`), "__NEXT_ERROR_CODE", {
+                                        ^
+
+Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at setupFsCheck (/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/lib/router-utils/filesystem.js:148:41)
+    at async initialize (/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/lib/router-server.js:110:23)
+    at async NextCustomServer.prepare (/home/aroundn1/nodevenv/webcrawl.winwinsolutions.vn/20/lib/node_modules/next/dist/server/next.js:276:28)
+
+Node.js v20.18.3

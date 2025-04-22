@@ -14,7 +14,7 @@
 /coverage
 
 # next.js
-/.next/
+#/.next/
 /out/
 
 # production
@@ -39,4 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
+eslint.config.zip
+.qodo/history.sqlite
+=======
 .qodo
+>>>>>>> 5e486e3 (First push)
