@@ -1,7 +1,7 @@
 {
   "/_not-found/page": "/_not-found",
-  "/crawl/page": "/crawl",
-  "/page": "/",
   "/chat/page": "/chat",
-  "/results/page": "/results"
+  "/crawl/page": "/crawl",
+  "/results/page": "/results",
+  "/page": "/"
 }
