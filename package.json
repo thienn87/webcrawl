@@ -1,34 +1,14 @@
-<<<<<<< HEAD
 {
-<<<<<<< HEAD
-  "name": "webcrawl.winwinsolutions.vn",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-=======
   "name": "llm-web-crawler",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
->>>>>>> acee379 (Initial commit from Create Next App)
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.28"
-=======
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.3.1"
->>>>>>> acee379 (Initial commit from Create Next App)
-=======
     "@n8n/chat": "^0.27.1",
     "@supabase/supabase-js": "^2.49.4",
     "next": "15.3.1",
@@ -37,61 +17,18 @@
     "react-dom": "^19.0.0",
     "react-markdown": "^10.1.0",
     "supabase": "^2.20.12"
->>>>>>> 5e486e3 (First push)
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4.1.4",
     "@types/node": "^20",
-<<<<<<< HEAD
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.28"
-=======
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.21",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
-<<<<<<< HEAD
-    "@eslint/eslintrc": "^3"
->>>>>>> acee379 (Initial commit from Create Next App)
-=======
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.4",
     "typescript": "^5"
->>>>>>> 5e486e3 (First push)
   }
 }
-=======
-{
-    "name": "webcrawl.winwinsolutions.vn",
-    "version": "0.1.0",
-    "private": true,
-    "scripts": {
-        "dev": "next dev",
-        "build": "next build",
-        "start": "next start",
-        "lint": "next lint"
-    },
-    "dependencies": {
-        "react": "^19.0.0",
-        "react-dom": "^19.0.0",
-        "next": "15.3.1"
-    },
-    "devDependencies": {
-        "typescript": "^5",
-        "@types/node": "^20",
-        "@types/react": "^19",
-        "@types/react-dom": "^19",
-        "@tailwindcss/postcss": "^4",
-        "tailwindcss": "^4",
-        "eslint": "^9",
-        "eslint-config-next": "15.3.1",
-        "@eslint/eslintrc": "^3"
-    }
-}
->>>>>>> 48b4cedce718d1f992f77c913da0145b31f03889

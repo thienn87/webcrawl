@@ -1,26 +1,14 @@
-<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /.pnp
-<<<<<<< HEAD
-<<<<<<< HEAD
-.pnp.js
-.yarn/install-state.gz
-=======
-=======
->>>>>>> newWinWeb
 .pnp.*
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-<<<<<<< HEAD
->>>>>>> acee379 (Initial commit from Create Next App)
-=======
->>>>>>> newWinWeb
 
 # testing
 /coverage
@@ -40,23 +28,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-# local env files
-.env*.local
-=======
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
 .env*
->>>>>>> acee379 (Initial commit from Create Next App)
-=======
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
->>>>>>> newWinWeb
 
 # vercel
 .vercel
@@ -64,61 +39,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-<<<<<<< HEAD
-<<<<<<< HEAD
-.qodo/history.sqlite
-eslint.config.zip
-=======
-eslint.config.zip
-.qodo/history.sqlite
->>>>>>> newWinWeb
-=======
 .qodo
-<<<<<<< HEAD
->>>>>>> 5e486e3 (First push)
-=======
-eslint.config.zip
->>>>>>> d7b9759 (update)
-=======
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
->>>>>>> 48b4cedce718d1f992f77c913da0145b31f03889
