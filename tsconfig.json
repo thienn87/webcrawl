@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
+=======
+    "target": "ES2017",
+>>>>>>> acee379 (Initial commit from Create Next App)
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
@@ -12,10 +16,22 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+<<<<<<< HEAD
+=======
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+>>>>>>> acee379 (Initial commit from Create Next App)
     "paths": {
       "@/*": ["./src/*"]
     }
   },
+<<<<<<< HEAD
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+=======
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+>>>>>>> acee379 (Initial commit from Create Next App)
   "exclude": ["node_modules"]
 }
