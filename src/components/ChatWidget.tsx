@@ -15,7 +15,7 @@ interface ChatWidgetProps {
   initialMessage?: string;
 }
 
-const N8N_CHAT_API = 'https://winwinsols.app.n8n.cloud/webhook/text-recevier';
+const N8N_CHAT_API = 'https://n8n.winwinsolutions.vn/webhook/text-recevier';
 /*
 test: https://winwinsols.app.n8n.cloud/webhook-test/text-recevier
 */

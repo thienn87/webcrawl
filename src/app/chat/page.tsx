@@ -10,7 +10,7 @@ interface Message {
   timestamp: Date;
 }
 
-const N8N_CHAT_API = 'https://winwinsols.app.n8n.cloud/webhook/text-recevier';
+const N8N_CHAT_API = 'https://n8n.winwinsolutions.vn/webhook/text-recevier';
 
 function generateSessionId() {
   return 'sess_' + Math.random().toString(36).substr(2, 9) + Date.now();
